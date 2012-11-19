@@ -1,0 +1,24 @@
+#search {
+	margin: 20px;
+	width: 400px;
+	border: 1px black solid;
+	background-color: #00BFFF;
+}
+
+#search_table {
+	
+}
+
+.result {
+	margin: 20px;
+	width: 500px;
+	border: 1px black solid;
+	background-color: #00BFFF;
+}
+
+.detail {
+	margin-top: 5px;
+	width: 500px;
+	border: 1px yellow dashed;
+	background-color: red;
+}
